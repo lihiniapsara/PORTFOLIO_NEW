@@ -32,7 +32,7 @@ https://lihiniapsara.github.io/PORTFOLIO_NEW/
 ```bash
 git init
 git add .
-git commit -m "Initial GDSE portfolio"
+git commit -m "Initial personal portfolio"
 git branch -M main
 git remote add origin https://github.com/lihiniapsara/PORTFOLIO_NEW.git
 git push -u origin main
