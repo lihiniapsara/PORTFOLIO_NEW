@@ -21,7 +21,7 @@ export default function Hero() {
             <div className="space-y-6">
               <div className="inline-block">
                 <p className="text-sm font-bold tracking-widest uppercase text-primary mb-4 animate-fadeInUp">
-                  FULL STACK ENGINEER
+                  SOFTWARE ENGINEERING INTERN | ASSOCIATE-LEVEL CANDIDATE
                 </p>
               </div>
               
@@ -31,7 +31,7 @@ export default function Hero() {
               </h1>
 
               <p className="text-lg lg:text-xl text-muted-foreground max-w-lg leading-relaxed animate-fadeInUp" style={{ animationDelay: '0.2s' }}>
-                Crafting scalable architectures and exceptional digital experiences with modern technologies and creative problem-solving.
+                Building scalable architectures and high-quality digital experiences with modern technologies, collaborative workflows, and strong problem-solving.
               </p>
             </div>
 

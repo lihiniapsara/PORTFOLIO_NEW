@@ -9,7 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'Lihini Apsara - Full Stack Developer',
-  description: 'Software Engineer | Full Stack Developer | Cloud Enthusiast',
+  description: 'Software Engineering Intern | Associate Software Engineer Candidate | Cloud Enthusiast',
   generator: 'v0.app',
   icons: {
     icon: [

@@ -15,10 +15,10 @@ export default function About() {
               A Software Engineering enthusiast passionate about building scalable, user-centric digital solutions.
             </p>
             <p>
-              I&apos;m a student of the GDSE (Graduate Diploma in Software Engineering) program at IJSE – Institute of Software Engineering, with hands-on experience in full-stack development, microservices architecture, and cloud deployment.
+              I&apos;m currently completing the GDSE (Graduate Diploma in Software Engineering) program at IJSE – Institute of Software Engineering, with hands-on experience in full-stack development, microservices architecture, and cloud deployment.
             </p>
             <p>
-              Currently serving as a Software Engineering Intern at Gamage Recruiters, where I contribute to web application development, API integration, and collaborative Git-based workflows. I believe in creating elegant solutions to complex problems.
+              Currently serving as a Software Engineering Intern at Gamage Recruiters, where I contribute to web application development, API integration, and collaborative Git-based workflows, while actively preparing for Associate Software Engineer opportunities.
             </p>
           </div>
 
